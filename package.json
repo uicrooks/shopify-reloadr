@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uicrooks/shopify-theme-lab-reloadr"
+    "url": "git+https://github.com/uicrooks/shopify-reloadr"
   },
   "main": "server.js",
   "keywords": [
