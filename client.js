@@ -1,4 +1,4 @@
-const options = require('./reloadr.config.js')
+const options = require('./config.js')
 let initialConnectionClose = true // allows displaying disconnected error only once on 'close' event
 
 initReloadrClient = () => {
