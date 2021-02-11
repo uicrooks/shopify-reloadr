@@ -2,7 +2,7 @@
   "name": "shopify-reloadr",
   "description": "Reloads a remote Shopify theme during development",
   "author": "Sergej Samsonenko <contact@sergej.codes>",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "chalk": "^4.1.0",
-    "ws": "^7.4.2"
+    "ws": "^7.4.3"
   }
 }
