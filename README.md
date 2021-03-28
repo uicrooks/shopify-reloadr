@@ -1,5 +1,7 @@
 ## Shopify Reloadr
 
+> This package is now deprecated, consider using [Shopify Theme Lab Reloader](https://github.com/uicrooks/shopify-theme-lab-plugins/tree/master/packages/reloader)
+
 Shopify Reloadr is a collection of scripts for reloading a remote Shopify theme during development when working with [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab).
 
 The `server.js` script runs an HTTP server, as well as a WebSocket server, locally. The HTTP server listens for requests, sent from the `shopify:watch` task (which is the default Shopify Them Kit [watch task](https://shopify.dev/tools/theme-kit/command-reference#watch)) and communicates via WebSocket connection with the `client.js` script.
